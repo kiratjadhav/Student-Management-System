@@ -1,4 +1,3 @@
-
 from sqlite3 import *
 from tkinter import *
 from tkinter.messagebox import *
